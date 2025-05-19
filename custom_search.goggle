@@ -4,6 +4,7 @@
 ! author: myteril
 $boost=3,site=github.com
 $boost=3,site=stackoverflow.com
+$boost=2,site=reddit.com
 $boost=1,site=codepen.io
 $boost=1,site=rosettacode.org
 $boost=1,site=mysql.com

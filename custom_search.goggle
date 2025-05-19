@@ -1,6 +1,6 @@
 ! name: Custom Search Goggle
 ! description: Goggle for curated personal list
-! public: true
+! public: false
 ! author: myteril
 $boost=3,site=github.com
 $boost=3,site=stackoverflow.com
